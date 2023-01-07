@@ -14,4 +14,4 @@ Experiment with different Git commands, such as git log to view the commit histo
 
 Practice working with branches by creating a new branch using the git branch command and switching between branches using the git checkout command.
 
-As you become more comfortable with Git, you can try more advanced exercises, such as collaborating on a project with other developers or using Git with a remote repository like GitHub.
+As you become more comfortable with Git, you can try more advanced exercises, such as collaborating on a project with other developers or using Git with a remote repository like GitHub. 
